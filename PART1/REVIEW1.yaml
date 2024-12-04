@@ -28,3 +28,4 @@
 
   - DROP DATABASE FIRSTDB;
   - INSERT INTO tableName(FIELDS HERE) VALUES()
+  - DROP TABLE tableName;
